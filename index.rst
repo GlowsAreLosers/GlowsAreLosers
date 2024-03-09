@@ -56,6 +56,8 @@ D. Motives
 E. Countering as a Victim
 -------------------------
 
+(To be written)
+
 1. `Technology <countering/technology.rst>`_.
 
 2. `Psychology <countering/psychology.rst>`_.
@@ -65,6 +67,8 @@ E. Countering as a Victim
 
 F. Countering as a Society
 --------------------------
+
+(To be written)
 
 1. `For everyone in society <countering/everyone.rst>`_.
 
@@ -77,6 +81,8 @@ F. Countering as a Society
 
 G. Speculations
 ---------------
+
+(To be written)
 
 1. `History, Creators, Conspirators, Command Structure, Leaders
    <speculations/history.rst>`_.
