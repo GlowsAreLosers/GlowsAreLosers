@@ -27,19 +27,33 @@ B. Abuse
 
 2. `The massive scale of deployment (and abuse) <abuse/scale.rst>`_.
 
-3. `The motives behind the abuses <abuse/motives.rst>`_.
-
-4. `The horrendous lies used as pretext for the abuse <abuse/lies.rst>`_.
+3. `The horrendous lies used as pretext for the abuse <abuse/lies.rst>`_.
 
 
-C. Leaks
+C. Motives
+----------
+
+(To be written)
+
+1. `Political <motives/political.rst>`_.
+
+2. `Economic <motives/economic.rst>`_.
+
+3. `Psychological experimentation <motives/.rst>`_.
+
+4. `Malevolence <motives/malice.rst>`_.
+
+5. `Grudge <motives/grudge.rst>`_.
+
+
+D. Leaks
 --------
 
 1. `Washington State Fusion Center accidentally releases records on remote
    mind control <leaks/wfc.rst>`_.
 
 
-D. Countering as a Victim
+E. Countering as a Victim
 -------------------------
 
 1. `Technology <countering/technology.rst>`_.
@@ -49,7 +63,7 @@ D. Countering as a Victim
 3. `Safety <countering/safety.rst>`_.
 
 
-E. Countering as a Society
+F. Countering as a Society
 --------------------------
 
 1. `For everyone in society <countering/everyone.rst>`_.
@@ -61,7 +75,7 @@ E. Countering as a Society
 4. `Read this if you are a culprit <countering/as-culprit.rst>`_.
 
 
-F. Speculations
+G. Speculations
 ---------------
 
 1. `History, Creators, Conspirators, Command Structure, Leaders
