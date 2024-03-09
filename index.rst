@@ -88,3 +88,9 @@ G. Speculations
    <speculations/history.rst>`_.
 
 2. `Health concerns <speculations/health.rst>`_.
+
+
+H. Stories
+----------
+
+Stories from victims who opted to share their stories. (To be written)
