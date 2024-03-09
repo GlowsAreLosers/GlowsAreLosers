@@ -17,7 +17,7 @@ A. Technology
 
 6. `Myths about the technology <technology/myths.rst>`_.
 
-7. `Limitations of the techonlogy <technology/limitations.rst>`
+7. `Limitations of the techonlogy <technology/limitations.rst>`_.
 
 
 B. Abuse
