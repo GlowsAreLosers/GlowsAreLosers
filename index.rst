@@ -20,7 +20,14 @@ A. Technology
 7. `Limitations of the techonlogy <technology/limitations.rst>`_.
 
 
-B. Abuse
+B. Leaks
+--------
+
+1. `Washington State Fusion Center accidentally releases records on remote
+   mind control <leaks/wfc.rst>`_.
+
+
+C. Abuse
 --------
 
 1. `The rampant misuse and abuse of the technology <abuse/abuse.rst>`_.
@@ -30,7 +37,7 @@ B. Abuse
 3. `The horrendous lies used as pretext for the abuse <abuse/lies.rst>`_.
 
 
-C. Motives
+D. Motives
 ----------
 
 (To be written)
@@ -44,13 +51,6 @@ C. Motives
 4. `Malevolence <motives/malice.rst>`_.
 
 5. `Grudge <motives/grudge.rst>`_.
-
-
-D. Leaks
---------
-
-1. `Washington State Fusion Center accidentally releases records on remote
-   mind control <leaks/wfc.rst>`_.
 
 
 E. Countering as a Victim
