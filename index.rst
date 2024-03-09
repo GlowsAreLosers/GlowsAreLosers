@@ -39,21 +39,29 @@ C. Leaks
    mind control <leaks/wfc.rst>`_.
 
 
-D. Countering
--------------
+D. Countering as a Victim
+-------------------------
 
-1. `As a victim <countering/as-victim.rst>`_.
+1. `Technology <countering/technology.rst>`_.
+
+2. `Psychology <countering/psychology.rst>`_.
+
+3. `Safety <countering/safety.rst>`_.
+
+
+E. Countering as a Society
+--------------------------
+
+1. `For everyone in society <countering/everyone.rst>`_.
 
 2. `As someone related to a victim <countering/as-related.rst>`_.
 
 3. `As an unrelated person <countering/as-unrelated.rst>`_.
 
-4. `For everyone in society <countering/everyone.rst>`_.
-
-5. `Read this if you are a culprit <countering/as-culprit.rst>`_.
+4. `Read this if you are a culprit <countering/as-culprit.rst>`_.
 
 
-E. Speculations
+F. Speculations
 ---------------
 
 1. `History, Creators, Conspirators, Command Structure, Leaders
