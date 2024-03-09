@@ -1,7 +1,7 @@
 Table of Contents
 =================
 
-`Full table of contents in this repository is here <index.rst>`.
+[Full table of contents in this repository is here](index.rst).
 
 
 Introduction
@@ -124,17 +124,17 @@ License
 =======
 
 All contents in this repository is released to the public domain, with the
-exception of the contents inside the `files/ <files/>`_ folder, which were
+exception of the contents inside the [files/](files/) folder, which were
 downloaded from the internet. They are copyrighted to their respective owners,
 but I had to include some of them in this repository because they were taken
 down in their original.
 
 In addition to the public domain, the contents of this repository are released
-under the `Creative Commons 1.0 Universal <LICENSE>`_ license; again, with the
-exclusion of the contents of the `files/ <files/>`_ folder.
+under the [Creative Commons 1.0 Universal](LICENSE) license; again, with the
+exclusion of the contents of the [files/](files/) folder.
 
 
 Table of Contents
 =================
 
-`Full table of contents <index.rst>`.
+[Full table of contents](index.rst).
