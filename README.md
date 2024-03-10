@@ -105,10 +105,8 @@ Please make sure you replicate this repository by:
 Continue Beyond Me
 ------------------
 
-To be fully transparent with you, my health is in a terrible state now, to the
-point I suspect that I might be dead in the next 24 hours, which is why I had to
-rush uploading the repository long before it's finished. In case I do not show
-up again for the next week, then I'm most certainly dead.
+To be fully transparent with you, my health is in a terrible state now, which is
+why I had to rush uploading the repository long before it's finished.
 
 Several articles are either fully blank or are very minimally written. In case
 I do not appear again, please do not let this endeavor die. The repository needs
