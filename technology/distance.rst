@@ -23,7 +23,7 @@ Neural Networks
 ---------------
 
 I've come across YouTube videos about (computer) neural networks that can be used
-to separate signals from noise and amplify signals that would otherwise be too
+to separate signals from noise, and amplify signals that would otherwise be too
 faint to be detected.
 
 There was a video (for which I sadly lost the link) that goes in lengths

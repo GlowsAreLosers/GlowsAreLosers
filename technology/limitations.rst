@@ -8,5 +8,5 @@ that the technology has some fundamental limitations, which are important to
 understand if you are being targeted.
 
 
-They Cannot Control Your Thinking
----------------------------------
+They Can Never Control Your Thinking
+------------------------------------
