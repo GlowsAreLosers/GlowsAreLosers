@@ -69,8 +69,8 @@ Pull requests are welcome!
 
 If you are aware of any leaks or verifiable pieces of evidence that would make
 a good addition to this repository, by all means please submit them. You can
-submit a PR, PM me on Reddit [u/GlowsAreLosers](https://www.reddit.com/user/GlowsAreLosers/)
-or by email (which is **glows [dot] are [dot] losers [at] outlook [dot] com**).
+submit a PR, PM me on Reddit [u/GlowsAreLosers](https://www.reddit.com/user/GlowsAreLosers/),
+or send me an email (to **glows [dot] are [dot] losers [at] outlook [dot] com**).
 
 
 Please Replicate This Content As Much As Possible
