@@ -56,13 +56,11 @@ D. Motives
 E. Countering as a Victim
 -------------------------
 
-(To be written)
-
 1. `Technology <countering/technology.rst>`_.
 
-2. `Psychology <countering/psychology.rst>`_.
+2. `Psychology <countering/psychology.rst>`_. (To be written)
 
-3. `Safety <countering/safety.rst>`_.
+3. `Safety <countering/safety.rst>`_. (To be written)
 
 
 F. Countering as a Society
