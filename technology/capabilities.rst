@@ -83,6 +83,25 @@ This includes:
 - **Systemic sensory perceptions**: Like fatigue, dizziness, hunger, feeling
   "unwell" or "sick", and really any systemic feeling you can experience.
 
+- **Other sensory phenomena:** Like pins-and-needles, and feelings of (unreal)
+  "electricity" in your body.
+
+- **Altering the perception of intensity:** In addition to the type of
+  sensation, your brain's waveforms encode the perceived **intensity** of a
+  sensation. The technology can be used to beam arbitrary intensity information,
+  which causes perceived sensations to appear far more more intense or far less
+  intense than they actually are.
+
+- **Numbing of sensations:** The brain can secrete substances that block sensory
+  neural paths for a select area, causing a sedation effect. This can naturally
+  occur, for example, when a person suffers an extremely painful injury, in
+  which case the brain secretes those substances to reduce the extreme pain.
+  The technology can force the brain it to secrete those substances, which
+  results in an unnatural numbing in select areas, or throughout the entire
+  body. The numbing is temporary, and typically goes away merely seconds after
+  the signal stops, but the signal can be sustained to make the numbing persist
+  for hours.
+
 
 Psychological
 =============
