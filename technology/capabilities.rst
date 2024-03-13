@@ -151,7 +151,7 @@ include:
 
 - What I call the "raindrops effect": Individual points in the muscle are
   made to flex at regular intervals with different phases, which causes
-  a movement that feels like raindrops falling on the muscle. This effect
+  a movement that feels like raindrops falling on the limb. This effect
   can be done in any part of the body - for example, the biceps or legs,
   but it appears that the abusers have a preference for doing it on the
   back the majority of the time.
