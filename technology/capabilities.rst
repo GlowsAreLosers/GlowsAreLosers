@@ -139,12 +139,13 @@ Motor
 =====
 
 The technology can be used to beam motor commands to the victim's brain,
-and provides the attacker with **far** more fine-grained control over motor
-commands than a human has with their conscious will.
+which can induce forced movement, forced speech, or the opposite - forced
+limping of the muscles, or forced contraction to restrict movement.
 
-For example, with your conscious will, you can flex an entire muscle, or
-a large part of it. The technology allows the attacker to control **each
-individual point in the muscle separately**, and this can be used to induce
+The technology allows **far** more fine-grained control than what is possible
+with conscious will. For example, with your conscious will, you can flex an
+entire muscle, or a large section of it, but this technology allows controlling
+**each individual point in the muscle separately**. This can be used to induce
 many effects that are impossible with voluntary control. Some examples
 include:
 
