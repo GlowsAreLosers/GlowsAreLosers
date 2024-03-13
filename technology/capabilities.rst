@@ -184,10 +184,11 @@ include:
   time, the eyeball is squeezed. Fortunately the ocular muscles are not powerful
   enough to rupture the eyeball or cause a lot of pain, but the slight squeezing
   they cause can be mildly disturbing, and results in (temporarily) deforming
-  the retina, which changes the places where light falls on it, causing the view
-  to appear slightly "wrinkled", or to blurred in some places but not others.
+  the retina, which changes the places that light entering the eye falls on,
+  causing the view to appear slightly "wrinkled", or to be blurred in some places
+  but not others.
 
-- Movement of **internal muscles**: Such as the stomach or intestines, again
-  with surprising fine control. The muscles can be made to vibrate fast (which
-  produces a rumbling sound in the abdomen), and they can be made to squeeze
-  air to force it to move along the intestine.
+- Movement of **internal muscles**: Such as the stomach or intestines. The
+  muscles can be made to vibrate fast (which produces a loud rumbling sound in
+  the abdomen), and they can be contracted to force the air in the intestine to
+  move back and forth repetitively.
